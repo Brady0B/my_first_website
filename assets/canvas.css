@@ -1,0 +1,7 @@
+body {
+     background-image: url("wood.JPG");
+}
+
+canvas {
+    border-style: dashed;
+}
